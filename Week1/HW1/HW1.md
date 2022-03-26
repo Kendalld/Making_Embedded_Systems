@@ -11,6 +11,10 @@ A laser system will sit mounted on a stage to be hung some distance from the wal
 Upon input the system will trace the route from beginning to end.
 
 
+![Laser Display Overview](https://user-images.githubusercontent.com/15851972/160226537-94b75ea5-69ec-49b9-a007-0ad50edd9098.png)
+
+
+
 Calibrate to map and distance
 Record route 
 Laser projects route onto map
