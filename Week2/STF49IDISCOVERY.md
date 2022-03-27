@@ -22,7 +22,7 @@ RAM: 256 Kbytes <br>
 SDRAM: 64 Mbit
 ## Does it have any special peripherals? (List 3-5 that you find interesting.)
 
-![STM32F429ZI_UM1670_Rev5_Fig2_Block_Diagram]()
+![STM32F429ZI_UM1670_Rev5_Fig2_Block_Diagram](https://github.com/Kendalld/Making_Embedded_Systems/blob/main/Week2/Assets/STM32F429ZI_UM1670_Rev5_Fig2_Block_Diagram.png)
 
 1. 2.4" QVGA TFT LCD <br>
     QVGA: Quarter VGA display with 320 × 240 resolution <br>
