@@ -33,7 +33,7 @@ N/A
 anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)
     ### Board: MIKROE-3521
     [Purchasing](https://www.digikey.com/en/products/detail/mikroelektronika/MIKROE-3521/10186996)
-         EA: $35.00 
+         EA @ MOQ 1: $35.00 
          In Stock(3/26/2022): 
             Digikey: QTY 3 
             Newark: QTY 10
@@ -44,7 +44,7 @@ anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)
     ### Processor: STM32L081CB
     [datasheet](https://www.st.com/content/ccc/resource/technical/document/datasheet/ab/81/9e/a3/49/a9/46/be/DM00162467.pdf/files/DM00162467.pdf/jcr:content/translations/en.DM00162467.pdf)
     [Purchasing](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L081CBT6TR/8257887)
-        EA: $3.65
+        EA @ MOQ 1: $3.65
         In stock(3/26/2022): QTY 0 
         Lead Time: 45weeks
     [Maunfacturer Website](https://www.st.com/en/microcontrollers-microprocessors/stm32l081cb.html)
