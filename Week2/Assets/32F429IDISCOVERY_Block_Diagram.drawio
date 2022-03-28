@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T00:08:40.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Vws0VdOvvZFE8LRqB7DV" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T00:10:59.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="3Aku6PUq7MXUawe2suJY" version="17.2.4" type="github">
   <diagram id="RVJd-Dt7SYc0apVT5G_t" name="Page-1">
     <mxGraphModel dx="1417" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="qSH3qxP1vZpZxCRUbrcc-9" value="GPIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="540" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qSH3qxP1vZpZxCRUbrcc-14" value="Flash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="qSH3qxP1vZpZxCRUbrcc-14" value="Flash?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="393" y="480" width="64.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qSH3qxP1vZpZxCRUbrcc-18" value="LEDs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
