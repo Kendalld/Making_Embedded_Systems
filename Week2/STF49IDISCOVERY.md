@@ -1,12 +1,13 @@
 # The 32F429IDISCOVERY
 
+![Handmade_Block_Diagram](https://raw.githubusercontent.com/Kendalld/Making_Embedded_Systems/65adf3880fd124ed3f917333ffc93871fe72f20c/Week2/Assets/32F429IDISCOVERY_Block_Diagram.drawio.svg)
+
 - "Discovery kit with STM32F429ZI MCU"
 - MPN: STM32F429I-DISC1
 - Digikey PN: 497-16140-ND
-
-[Product Brief](https://www.st.com/content/ccc/resource/technical/document/data_brief/ff/c1/b6/02/c3/b4/49/cb/DM00094498.pdf/files/DM00094498.pdf/jcr:content/translations/en.DM00094498.pdf)
-[User Manual](https://www.st.com/content/ccc/resource/technical/document/user_manual/6b/25/05/23/a9/45/4d/6a/DM00093903.pdf/files/DM00093903.pdf/jcr:content/translations/en.DM00093903.pdf)
-[Software Manual](https://www.st.com/resource/en/user_manual/dm00097320-getting-started-with-stm32f429-discovery-software-development-tools-stmicroelectronics.pdf)
+- [Product Brief](https://www.st.com/content/ccc/resource/technical/document/data_brief/ff/c1/b6/02/c3/b4/49/cb/DM00094498.pdf/files/DM00094498.pdf/jcr:content/translations/en.DM00094498.pdf)
+- [User Manual](https://www.st.com/content/ccc/resource/technical/document/user_manual/6b/25/05/23/a9/45/4d/6a/DM00093903.pdf/files/DM00093903.pdf/jcr:content/translations/en.DM00093903.pdf)
+- [Software Manual](https://www.st.com/resource/en/user_manual/dm00097320-getting-started-with-stm32f429-discovery-software-development-tools-stmicroelectronics.pdf)
 
 ## What kind of processor is it?
 STM32F429ZIT6
