@@ -1,5 +1,7 @@
-# Final Project Rough Draft Notes
 
+
+# [Report DOC](https://docs.google.com/document/d/e/2PACX-1vTvlHFudeapPHg09bwuCv_iC3KMJ6gSCDuONgdd8CEEnaM1qOTVYs1vsqp4YnMIgwa-mvEXyFj00_gI/pub)
+# Final Project Rough Draft Notes
 ## Tasks to complete for the project:
  ### Minimum Viable
     - Hardware
